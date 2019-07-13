@@ -5,6 +5,7 @@ Link:- https://www.youtube.com/watch?v=uH4trBNn540
 
 Leibniz Formula:-
 
+<img width="175" alt="leibnizformula" src="https://user-images.githubusercontent.com/44934630/61173274-a2754e00-a5ae-11e9-9c6e-c07f4e52fc8b.png">
 
 # References
   
